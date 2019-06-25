@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e98b78eeb060c5f102b3e97c7be24882/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/689b9582325a6b79afdfb84a03f5d62b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mattia/.gradle/caches/transforms-2/files-2.1/980511f428daab69b08d673966afec1b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5fb3463465a8d5928da2079c6581f881/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d822e41bbdddc9c3457f4d738f1b6c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1d4fed9fc40a682371cff2488b9270f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/bc39cb87a32f519b6ad29dc6ed75b5d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1f6df2215f0beb8be427856f1e063460/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2e5571e57be5641e31f3b031e224f222/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ff96d2838cdbed62cb9835dc81e6cd5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/a0d910e50a1dd5cbd2bea57a13ace03d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5141a13873d6d160d333ec8be136a2df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/7e30d406d71e0f2eb3bb82bd469365e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ced07db643fc5efbd620fc0e9e5d5e22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/90f6f9c6c1bcd62af282a29b25265164/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1c5fb31f7385f441f7ad8eedeb3e70f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/cbfbabb03f875d3e2d66b14efe40cb84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e30dbc7e4ca28b6ba2b7e532029c571e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/3c78cc51b736c456feaf7f2df9620371/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/50e40d2f9959ddc02fe435883c7493bb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c10c65a1e135aa26340d6b4486d2dc7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c2ec450d49103343980ad766e02f89c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/e859aad498cf05893006af089abe6e9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ab9e089749757bace6d87dfa9f39c4c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4cca45319c515750bc00997c8dbebcfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d40cc3304855d7dd10ae220f63e945a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/c8e10830012f8d75afd1d01f8edf78bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e1f389fa2c58c883bd4f661324fd1627/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/dfbb9ee19c88f68dcb5e0f844f669cb4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/7fb7932ddbcb58d6de319616e2075a6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/b178ed4b223afd89984e5ab8c7639e65/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e98b78eeb060c5f102b3e97c7be24882/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e98b78eeb060c5f102b3e97c7be24882/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mattia/.gradle/caches/transforms-2/files-2.1/980511f428daab69b08d673966afec1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mattia/.gradle/caches/transforms-2/files-2.1/980511f428daab69b08d673966afec1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/50e40d2f9959ddc02fe435883c7493bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/50e40d2f9959ddc02fe435883c7493bb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.testgrafico.MainActivity
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e98b78eeb060c5f102b3e97c7be24882/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e98b78eeb060c5f102b3e97c7be24882/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/689b9582325a6b79afdfb84a03f5d62b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/689b9582325a6b79afdfb84a03f5d62b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mattia/.gradle/caches/transforms-2/files-2.1/980511f428daab69b08d673966afec1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mattia/.gradle/caches/transforms-2/files-2.1/980511f428daab69b08d673966afec1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5fb3463465a8d5928da2079c6581f881/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5fb3463465a8d5928da2079c6581f881/AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d822e41bbdddc9c3457f4d738f1b6c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d822e41bbdddc9c3457f4d738f1b6c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1d4fed9fc40a682371cff2488b9270f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1d4fed9fc40a682371cff2488b9270f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/bc39cb87a32f519b6ad29dc6ed75b5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/bc39cb87a32f519b6ad29dc6ed75b5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1f6df2215f0beb8be427856f1e063460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1f6df2215f0beb8be427856f1e063460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2e5571e57be5641e31f3b031e224f222/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2e5571e57be5641e31f3b031e224f222/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ff96d2838cdbed62cb9835dc81e6cd5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ff96d2838cdbed62cb9835dc81e6cd5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/a0d910e50a1dd5cbd2bea57a13ace03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/a0d910e50a1dd5cbd2bea57a13ace03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5141a13873d6d160d333ec8be136a2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/5141a13873d6d160d333ec8be136a2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/7e30d406d71e0f2eb3bb82bd469365e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/7e30d406d71e0f2eb3bb82bd469365e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ced07db643fc5efbd620fc0e9e5d5e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ced07db643fc5efbd620fc0e9e5d5e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/90f6f9c6c1bcd62af282a29b25265164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/90f6f9c6c1bcd62af282a29b25265164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1c5fb31f7385f441f7ad8eedeb3e70f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/1c5fb31f7385f441f7ad8eedeb3e70f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/cbfbabb03f875d3e2d66b14efe40cb84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/cbfbabb03f875d3e2d66b14efe40cb84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e30dbc7e4ca28b6ba2b7e532029c571e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e30dbc7e4ca28b6ba2b7e532029c571e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/3c78cc51b736c456feaf7f2df9620371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/3c78cc51b736c456feaf7f2df9620371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4e17e8d4a316e9e744d812687d9130ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/50e40d2f9959ddc02fe435883c7493bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/50e40d2f9959ddc02fe435883c7493bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c10c65a1e135aa26340d6b4486d2dc7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c10c65a1e135aa26340d6b4486d2dc7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c2ec450d49103343980ad766e02f89c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/c2ec450d49103343980ad766e02f89c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/e859aad498cf05893006af089abe6e9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/e859aad498cf05893006af089abe6e9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ab9e089749757bace6d87dfa9f39c4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/ab9e089749757bace6d87dfa9f39c4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4cca45319c515750bc00997c8dbebcfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/4cca45319c515750bc00997c8dbebcfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d40cc3304855d7dd10ae220f63e945a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/2d40cc3304855d7dd10ae220f63e945a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/c8e10830012f8d75afd1d01f8edf78bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/c8e10830012f8d75afd1d01f8edf78bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e1f389fa2c58c883bd4f661324fd1627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mattia/.gradle/caches/transforms-2/files-2.1/e1f389fa2c58c883bd4f661324fd1627/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/dfbb9ee19c88f68dcb5e0f844f669cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/dfbb9ee19c88f68dcb5e0f844f669cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/7fb7932ddbcb58d6de319616e2075a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/7fb7932ddbcb58d6de319616e2075a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/b178ed4b223afd89984e5ab8c7639e65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mattia/.gradle/caches/transforms-2/files-2.1/b178ed4b223afd89984e5ab8c7639e65/AndroidManifest.xml:20:5-44
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		ADDED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mattia/Scaricati/GruppoMP2019-master/Applicazione/TestGrafico/app/src/main/AndroidManifest.xml
